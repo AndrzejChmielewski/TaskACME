@@ -13,7 +13,7 @@ test_ips = [
     "15.230.221.0",  # Niedozwolony (us-east-1)
     "35.180.0.0",    # Niedozwolony (brak regionu eu-west-1)
     "192.168.1.1",    # Niedozwolony (lokalny)
-    "127.0.0.1"      # Dozwolony (lokalny)
+    "127.0.0.1"      #  Niedozwolony (lokalny)
 ]
 
 # Funkcja do testowania adresów IP
