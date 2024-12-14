@@ -1,0 +1,111 @@
+2024-12-14 20:16:52,055 - WARNING -  * Debugger is active!
+2024-12-14 20:16:52,063 - INFO -  * Debugger PIN: 238-685-174
+2024-12-14 20:17:09,087 - INFO - Received request from IP: 3.4.12.4
+2024-12-14 20:17:09,087 - INFO - Request headers: Host: localhost:5000
+User-Agent: python-requests/2.32.3
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+X-Forwarded-For: 3.4.12.4
+Content-Length: 0
+
+
+2024-12-14 20:17:09,249 - INFO - AWS IP ranges fetched successfully.
+2024-12-14 20:17:09,251 - INFO - IP 3.4.12.4 is allowed.
+2024-12-14 20:17:09,251 - INFO - 127.0.0.1 - - [14/Dec/2024 20:17:09] "POST /verify HTTP/1.1" 200 -
+2024-12-14 20:17:09,253 - INFO - Received request from IP: 3.5.140.0
+2024-12-14 20:17:09,253 - INFO - Request headers: Host: localhost:5000
+User-Agent: python-requests/2.32.3
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+X-Forwarded-For: 3.5.140.0
+Content-Length: 0
+
+
+2024-12-14 20:17:09,254 - WARNING - IP 3.5.140.0 is not authorized.
+2024-12-14 20:17:09,254 - INFO - 127.0.0.1 - - [14/Dec/2024 20:17:09] "[31m[1mPOST /verify HTTP/1.1[0m" 401 -
+2024-12-14 20:17:09,255 - INFO - Received request from IP: 15.190.244.0
+2024-12-14 20:17:09,255 - INFO - Request headers: Host: localhost:5000
+User-Agent: python-requests/2.32.3
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+X-Forwarded-For: 15.190.244.0
+Content-Length: 0
+
+
+2024-12-14 20:17:09,255 - WARNING - IP 15.190.244.0 is not authorized.
+2024-12-14 20:17:09,256 - INFO - 127.0.0.1 - - [14/Dec/2024 20:17:09] "[31m[1mPOST /verify HTTP/1.1[0m" 401 -
+2024-12-14 20:17:09,257 - INFO - Received request from IP: 15.230.15.29
+2024-12-14 20:17:09,257 - INFO - Request headers: Host: localhost:5000
+User-Agent: python-requests/2.32.3
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+X-Forwarded-For: 15.230.15.29
+Content-Length: 0
+
+
+2024-12-14 20:17:09,257 - WARNING - IP 15.230.15.29 is not authorized.
+2024-12-14 20:17:09,257 - INFO - 127.0.0.1 - - [14/Dec/2024 20:17:09] "[31m[1mPOST /verify HTTP/1.1[0m" 401 -
+2024-12-14 20:17:09,258 - INFO - Received request from IP: 15.230.15.76
+2024-12-14 20:17:09,258 - INFO - Request headers: Host: localhost:5000
+User-Agent: python-requests/2.32.3
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+X-Forwarded-For: 15.230.15.76
+Content-Length: 0
+
+
+2024-12-14 20:17:09,259 - WARNING - IP 15.230.15.76 is not authorized.
+2024-12-14 20:17:09,259 - INFO - 127.0.0.1 - - [14/Dec/2024 20:17:09] "[31m[1mPOST /verify HTTP/1.1[0m" 401 -
+2024-12-14 20:17:09,260 - INFO - Received request from IP: 15.230.221.0
+2024-12-14 20:17:09,260 - INFO - Request headers: Host: localhost:5000
+User-Agent: python-requests/2.32.3
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+X-Forwarded-For: 15.230.221.0
+Content-Length: 0
+
+
+2024-12-14 20:17:09,260 - WARNING - IP 15.230.221.0 is not authorized.
+2024-12-14 20:17:09,260 - INFO - 127.0.0.1 - - [14/Dec/2024 20:17:09] "[31m[1mPOST /verify HTTP/1.1[0m" 401 -
+2024-12-14 20:17:09,262 - INFO - Received request from IP: 35.180.0.0
+2024-12-14 20:17:09,262 - INFO - Request headers: Host: localhost:5000
+User-Agent: python-requests/2.32.3
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+X-Forwarded-For: 35.180.0.0
+Content-Length: 0
+
+
+2024-12-14 20:17:09,262 - WARNING - IP 35.180.0.0 is not authorized.
+2024-12-14 20:17:09,262 - INFO - 127.0.0.1 - - [14/Dec/2024 20:17:09] "[31m[1mPOST /verify HTTP/1.1[0m" 401 -
+2024-12-14 20:17:09,263 - INFO - Received request from IP: 192.168.1.1
+2024-12-14 20:17:09,263 - INFO - Request headers: Host: localhost:5000
+User-Agent: python-requests/2.32.3
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+X-Forwarded-For: 192.168.1.1
+Content-Length: 0
+
+
+2024-12-14 20:17:09,264 - WARNING - IP 192.168.1.1 is not authorized.
+2024-12-14 20:17:09,264 - INFO - 127.0.0.1 - - [14/Dec/2024 20:17:09] "[31m[1mPOST /verify HTTP/1.1[0m" 401 -
+2024-12-14 20:17:09,265 - INFO - Received request from IP: 127.0.0.1
+2024-12-14 20:17:09,265 - INFO - Request headers: Host: localhost:5000
+User-Agent: python-requests/2.32.3
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+X-Forwarded-For: 127.0.0.1
+Content-Length: 0
+
+
+2024-12-14 20:17:09,265 - WARNING - IP 127.0.0.1 is not authorized.
+2024-12-14 20:17:09,265 - INFO - 127.0.0.1 - - [14/Dec/2024 20:17:09] "[31m[1mPOST /verify HTTP/1.1[0m" 401 -
